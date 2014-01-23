@@ -9,6 +9,10 @@ I created this back when I was younger and watching [Lie To Me](http://www.imdb.
 
 -----
 
+## Download
+
+Plaese see the [Repository's `Release` section above and download the latest App](https://github.com/Glavin001/Microexpressions-Quizer/releases/tag/1.0).
+
 ## Screenshots
 
 ### Question
